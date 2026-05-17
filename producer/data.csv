@@ -1,0 +1,6 @@
+student_id,student_name,course,grade,event_time
+101,Anna Kovalenko,Data Engineering,95.5,2026-05-17T09:00:00Z
+102,Dmytro Shevchenko,Apache Kafka,88.0,2026-05-17T09:05:00Z
+103,Olena Bondar,Python for Data,91.0,2026-05-17T09:10:00Z
+104,Maksym Melnyk,Docker Basics,84.5,2026-05-17T09:15:00Z
+105,Iryna Tkachenko,Distributed Systems,97.0,2026-05-17T09:20:00Z
